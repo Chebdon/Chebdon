@@ -1,7 +1,7 @@
-#chebdon
-#The purpose of this repository is to show documentation of my studies. 
-#I am a student All feedback is appreciated.
-#Thank you for your time and consideration
+#chebdon <br>
+#The purpose of this repository is to show documentation of my studies. <br>
+#I am a student All feedback is appreciated. <br>
+#Thank you for your time and consideration <br>
 
 
 <!---
